@@ -1,0 +1,10 @@
+.next
+node_modules
+.env
+.env*.local
+coverage
+dist
+*.log
+data/local-store.json
+public/screenshots/*.png
+!public/screenshots/.gitkeep
